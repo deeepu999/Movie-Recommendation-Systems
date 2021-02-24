@@ -45,7 +45,6 @@ Suprise Library: we have used Collaborate filtering using Suprise Library API to
 
 Hybrid Model: By using the features from content based and Colloborative models we have implemented Hybrid Recommendation System.
 
-
 ## Dependencies:
 
 Jupyter Notebook
